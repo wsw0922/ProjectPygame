@@ -4,6 +4,11 @@
 - 시작 화면에서 스페이스 누를 시 파이게임 창이 종료 되었다가 새로운 창이 나타남
 <img src="https://user-images.githubusercontent.com/107173046/200728183-f3d1c6fb-4ab7-4ce4-802d-312bbcfb3755.png" width="500">
 
+<br>
+
+---
+
+<br>
   
 ### 2. 맵 구현
 - 화살표 좌우방향으로 움직임 구현. 지정한 x 좌표에서 스페이스 누를 시 다음 스테이지로 넘어감. 
@@ -12,6 +17,11 @@
 
 <img src="https://user-images.githubusercontent.com/107173046/200728473-95d1819a-fd0e-46f7-a5d1-7157f90f6244.png" width="500">
 
+<br>
+
+---
+
+<br>
 
 ### 3. 1번째 스테이지 구현
 - 공룡게임(구글링 참조)
@@ -21,6 +31,11 @@
 
 <img src="https://user-images.githubusercontent.com/107173046/200728405-0ab47422-e7b8-420c-b673-957e7c2c2137.png" width="500">
 
+<br>
+
+---
+
+<br>
 
 ### 4. 2번째 스테이지 구현
 - 버블슈터(유튜브 참조)
@@ -31,6 +46,11 @@
 
 <img src="https://user-images.githubusercontent.com/107173046/200728425-8aa992ad-8166-490a-917f-8222b4fcc758.png" width="500">
 
+<br>
+
+---
+
+<br>
 
 ### 5. 3번째 스테이지 구현
 - 몬스터슈팅(유튜브 참조)
@@ -43,6 +63,9 @@
 
 <img src="https://user-images.githubusercontent.com/107173046/200728507-3f341e30-ba6a-490a-a176-0c5433fbc864.png" width="500">
 
+<br>
+
+---
 
 ### 6. 엔딩 구현
 - 영화관 쿠키, 엔딩 장면처럼 구현
@@ -53,10 +76,12 @@
 
 <img src="https://user-images.githubusercontent.com/107173046/200728538-2673395d-f1b5-4afd-9f5b-9b1ec099e57e.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/107173046/200728651-9d2eefc4-e1e4-4a0f-b3a7-e079c327969b.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/107173046/200728679-e871097c-f311-4d26-933b-450dcb72f35c.png" width="500">
+<br>
 
+---
+
+<br>
 
 ### 7. 스토리라인 & 엔딩크레딧
 - 용사가 공주를 구하러 가는 고전~ 느낌의 게임
@@ -66,3 +91,7 @@
 <img src="https://user-images.githubusercontent.com/107173046/200728232-1ca101b2-b4c7-41aa-8b81-294a78820e5d.png" width="500">
 
 <img src="https://user-images.githubusercontent.com/107173046/200728307-f5f9e2f5-7c77-473b-affe-9d87cb8f6cc2.png" width="500">
+
+<img src="https://user-images.githubusercontent.com/107173046/200728651-9d2eefc4-e1e4-4a0f-b3a7-e079c327969b.png" width="500">
+
+<img src="https://user-images.githubusercontent.com/107173046/200728679-e871097c-f311-4d26-933b-450dcb72f35c.png" width="500">
