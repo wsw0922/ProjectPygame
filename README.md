@@ -63,6 +63,6 @@
 - 시작, 각 스테이지의 끝, 엔딩 부분에 스토리가 들어감
 - 마지막엔 첫 스테이지의 나온 장애물과 캐릭터가 등장하여 귀엽게 마무리~
 
-<img src="https://user-images.githubusercontent.com/107173046/200728232-1ca101b2-b4c7-41aa-8b81-294a78820e5d.png)
+<img src="https://user-images.githubusercontent.com/107173046/200728232-1ca101b2-b4c7-41aa-8b81-294a78820e5d.png" width="500">
 
 <img src="https://user-images.githubusercontent.com/107173046/200728307-f5f9e2f5-7c77-473b-affe-9d87cb8f6cc2.png" width="500">
